@@ -1,0 +1,25 @@
+{
+  "name": "rserva",
+  "version": "1.0.0",
+  "description": "An application for making room reservations",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jacksmirk@github.com/jacksmirk/rserva.git"
+  },
+  "keywords": [
+    "booking",
+    "room",
+    "reservation"
+  ],
+  "author": "jacksmirk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacksmirk/rserva/issues"
+  },
+  "homepage": "https://github.com/jacksmirk/rserva#readme"
+}
